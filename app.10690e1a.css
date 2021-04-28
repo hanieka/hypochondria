@@ -35,9 +35,13 @@ a {
 }
 abbr[title] {
   border-bottom: none;
-  text-decoration: underline;
+  text-decoration: none;
   -webkit-text-decoration: underline dotted;
   text-decoration: underline dotted
+}
+
+.no-underline {
+	text-decoration: none !important;
 }
 b, strong {
   font-weight: inherit;
@@ -192,7 +196,7 @@ body.material {
   color: #424242
 }
 body.material a {
-  text-decoration: underline;
+  text-decoration: none;
   color: #0097a7
 }
 body.material a:active, body.material a:focus, body.material a:hover {

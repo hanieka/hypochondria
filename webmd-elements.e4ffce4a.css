@@ -4370,7 +4370,7 @@
   background-color: transparent
 }
 a.webmd-button--text.material {
-  text-decoration: underline
+  text-decoration: none;
 }
 .webmd-button--text.material:active, .webmd-button--text.material:focus, .webmd-button--text.material:hover {
   color: #0097a7;
