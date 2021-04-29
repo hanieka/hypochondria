@@ -1,0 +1,20 @@
+The Real Symptom Checker is an online parody of the WebMD’s symptom checker that correctly diagnoses everyone who uses it with hypochondria. 
+Much like the original site, the Real Symptom Checker begins by asking for the user’s age and biological sex. However, unlike the original 
+symptom checker, the Real Symptom Checker gives only two possible diagnoses, hypochondria, and COVID, obviously. This project is in the form 
+of a website that works both on desktop computers and on mobile phones, in order to best mimic the original WebMD site. The site also uses 
+WebMD branding, in order to bring more legitimacy to the Real Symptom Checker and to add more of a surprise at the diagnoses page.
+
+I made this site by downloading the source code for the original WebMD Symptom Checker, debugging the script files until the site worked, 
+and then edited the content. Since many script files didn’t run remotely, I had to separate the experience into two HTML pages and edit the
+CSS in order to successfully recreate the original experience. I hosted the site on Github with a custom domain.
+
+The aim of this project is to discuss both the purpose and the efficacy of the original WebMD Symptom Checker. If the user is really 
+displaying hypochondriac tendencies, as most WebMD users do, then the Real Symptom Checker will reflect that. If the user is having 
+legitimate health concerns, then the Real Symptom Checker is less helpful than the WebMD version, but not by much.
+
+This project was inspired by my father, who has been diagnosing himself with COVID-19 twice a week, every week, for the past fourteen months. 
+It was also inspired by my own tendencies to use WebMD in order to avoid confronting my fear of real trips to the doctor’s office. While the
+general anxiety level of our generation is very justified, and sometimes arguably not high enough, another aim of this project is to bring 
+a light-hearted moment in a mostly heavy-hearted year.
+
+You can visit my site at www.realsymptomchecker.com
